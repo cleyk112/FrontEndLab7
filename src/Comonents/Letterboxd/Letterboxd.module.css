@@ -1,0 +1,40 @@
+.Letterboxd {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 75%;
+}
+
+.Letterboxd > div {
+  width: 374px;
+  height: 448px;
+  margin: 10px;
+  color: white;
+  position: relative;
+  font-size: 11px;
+  cursor: pointer;
+  overflow: hidden;
+  border-radius: 6px;
+}
+
+.Letterboxd > div:hover .title {
+  bottom: 0px;
+}
+
+.Letterboxd .title {
+  position: absolute;
+  bottom: -150px;
+  left: 0;
+  z-index: 4;
+  width: 100%;
+  height: 15%;
+  transition: all 0.4s;
+  background: linear-gradient(203deg, rgba(38,39,41,1) 0%, rgba(21,29,38,1) 24%);
+  
+}
+
+.Letterboxd .title h3 {
+  padding: 0px 30px;
+  font-size: 20px;
+  
+}
