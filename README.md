@@ -6,4 +6,4 @@ Content – у вигляді class.
 ## Завдання2.
 Створити галерею товарів (не менш 6) на основі компонента GoodsCard та використати props для передачі параметрів. 
 
-[Github pages](https://cleyk112.github.io/FrontendLab7/)# FrontEndLab7
+[Github pages](https://cleyk112.github.io/FrontEndLab7/)# FrontEndLab7
