@@ -1,6 +1,7 @@
 {
+  
   "name": "my-appp",
-  "homepage": "https://cleyk112.github.io/FrontendLab7",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
